@@ -3,8 +3,6 @@
 - 👀 I’m interested in coding and solving issues and problems
 - 🌱 I’m currently learning C,python,web develepment
 - 💞️ I’m looking to collaborate on Any open source organisation I come across
-- 📫 How to reach me
-- 
 -✔ Pronouns-he/him/his
 
 <!---
