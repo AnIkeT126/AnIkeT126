@@ -2,7 +2,7 @@
 - 🎓Student of B.Tech at Amrita Vishwa Vidyapeetham
 - 👀 I’m interested in coding and solving issues and coming up with creative solutions
 - 🌱 I’m currently learning C, python & web develepment
-- 💞️ I’m looking to collaborate on Any open source organisation I come across
+- 💞️ I’m looking to collaborate and contribute to any open source organisation I come across
 - 🌈 Pronouns-he/him/his
 
 <!---
