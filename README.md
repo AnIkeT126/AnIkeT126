@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_lazy_nerd" target="blank"><img src="https://img.shields.io/twitter/follow/_lazy_nerd?logo=twitter&style=for-the-badge" alt="_lazy_nerd" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/3oEjHEqjhobfLeyIJW/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 - 🎓 i'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 
