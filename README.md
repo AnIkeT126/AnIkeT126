@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on **and open soruce project I come across with.**
 
 - ⚡ Fun fact **I think I am Funny XD**
+- 🌈 Pronouns:- he/him/his
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
