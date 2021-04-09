@@ -9,7 +9,7 @@
 
 - 🎓 i'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 
-- 🌱 I’m currently learning **C,C++,Python,HTML**
+- 🌱 I’m currently learning **C++,Python,HTML**
 
 - 👯 I’m looking to collaborate on **and open soruce project I come across with**
 
