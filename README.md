@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket126&label=Profile%20views&color=0e75b6&style=flat" alt="aniket126" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_mishra_aniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mishra_aniket" height="30" width="40" />
- </a> </p>
+<p align="left"> <a href="https://twitter.com/_mishra_aniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mishra_aniket" height="30" width="40" /> </a> </p>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
