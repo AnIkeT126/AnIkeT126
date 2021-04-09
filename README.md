@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_lazy_nerd" target="blank"><img src="https://img.shields.io/twitter/follow/_lazy_nerd?logo=twitter&style=for-the-badge" alt="_lazy_nerd" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 - 🎓 i'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **and open soruce project I come across with.**
 
-- ⚡ Fun fact **I think I am Funny XD**
+- ⚡ Fun fact **I laugh obnoxiously when I am not supposed to🙃 **
 - 🌈 Pronouns:- he/him/his
  
 
