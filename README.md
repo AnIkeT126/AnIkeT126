@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++,Python,HTML**
 
-- 👯 I’m looking to collaborate on **and open soruce project I come across with**
+- 👯 I’m looking to collaborate on **any open soruce project I come across to**
 
 - ⚡ Fun fact **I laugh obnoxiously when I am not supposed to** 🙃
 - 🌈 Pronouns:- he/him/his
