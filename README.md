@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 - 🎓 i'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
--  ✔ Member [@cognizance]()
+-  ✔ I am a member [@cognizance](https://github.com/cognizance-amrita)
 
 - 🌱 I’m currently learning **Python,JS**
 
