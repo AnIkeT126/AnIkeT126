@@ -9,8 +9,6 @@
 - 🎓 i'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 -  ✔ I am a member [@cognizance](https://github.com/cognizance-amrita)
 
-- 🌱 I’m currently learning **Python,JS**
-
 - 👯 I’m looking to collaborate on **any open soruce project I come across to**
 
 - ⚡ Fun fact **I laugh obnoxiously when I am not supposed to** 🙃
