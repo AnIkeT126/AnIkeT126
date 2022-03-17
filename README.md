@@ -9,10 +9,9 @@
 - 🎓 I'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 -  ✔ I am a member [@cognizance](https://github.com/cognizance-amrita)
 
-- 👯 I’m looking to collaborate on **any open soruce project I come across to**
-
+- 👯 I collaborate to open source projects that suits my skills
 - ⚡ Fun fact **I laugh obnoxiously when I am not supposed to** 🙃
-- 🌈 Pronouns:- he/him/his
+- 🌈 Pronouns:- He/Him
  
 
 <h3 align="left">Connect with me:</h3>
