@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
-- 🎓 i'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
+- 🎓 I'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 -  ✔ I am a member [@cognizance](https://github.com/cognizance-amrita)
 
 - 👯 I’m looking to collaborate on **any open soruce project I come across to**
