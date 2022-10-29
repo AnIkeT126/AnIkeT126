@@ -7,8 +7,8 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 - 🎓 I'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
--  ✔ Member || Mentor [@cognizance](https://github.com/cognizance-amrita)
-
+-  ✔ Member || Mentor || Coordinator [@cognizance](https://github.com/cognizance-amrita)
+-    Checkout me out [here](https://aniket126.github.io/portfolio/johndoe/public_html/index.html)
 - 👯 I collaborate to open source projects that suits my skills
 - ⚡ Fun fact **I laugh obnoxiously when I am not supposed to** 🙃
 - 🌈 Pronouns:- He/Him
