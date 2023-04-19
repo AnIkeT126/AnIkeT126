@@ -4,7 +4,10 @@
 
 
 
+
+
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+
 
 - 🎓 I'm currently a student of Amrita Vishwa Vidyapeetham, Amrita School Of Engineering, Chennai.
 -  ✔ Coordinator [@cognizance](https://github.com/cognizance-amrita)
